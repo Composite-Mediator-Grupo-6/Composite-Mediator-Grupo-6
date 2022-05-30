@@ -1,2 +1,0 @@
-# Faculdade
-repositorios da faculdade
